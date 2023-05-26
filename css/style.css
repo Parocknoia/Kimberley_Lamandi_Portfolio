@@ -874,7 +874,7 @@ section {
 }
 
 .slider-overlay {
-	background:url("../images/pattern.png") repeat rgba(0, 0, 0, .4);
+	background:url("images/pattern.png") repeat rgba(0, 0, 0, .4);
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -998,7 +998,7 @@ html[xmlns] .slides {
 /*-----------------------------------------------------------------*/
 
 #facts {
-	background:url(../images/parallax/facts.jpg) no-repeat;
+	background:url(images/parallax/facts.jpg) no-repeat;
 	padding: 150px 0px 100px;
 }
 
@@ -1295,13 +1295,13 @@ html[xmlns] .slides {
 
 
 #history {
-	background:url(../images/parallax/laptop.jpg);
+	background:url(images/parallax/laptop.jpg);
 }
 
 ul.timeline {
 	margin: 40px auto 0;
 	width: 100%;
-	background: url(../images/timeline-bg.jpg) center center repeat-y;
+	background: url(images/timeline-bg.jpg) center center repeat-y;
 	height: auto;
 	position: relative;
 	padding: 0 0 80px;
@@ -1612,7 +1612,7 @@ ul.timeline {
 /*-----------------------------------------------------------------*/
 
 #cta {
-	background:url(../images/parallax/cta.jpg) no-repeat;
+	background:url(images/parallax/cta.jpg) no-repeat;
 	padding:130px 0px 130px;
 }
 
@@ -1759,7 +1759,7 @@ ul.timeline {
 #skills {
 	text-align:center;
 	padding:100px 0px 0px;
-	background:url(../images/parallax/skills.jpg) no-repeat;
+	background:url(images/parallax/skills.jpg) no-repeat;
 }
 
 .pie-chart-main {
@@ -1953,7 +1953,7 @@ ul.timeline {
 
 
 #video {
-	background:url(../images/parallax/cta.jpg) no-repeat;
+	background:url(images/parallax/cta.jpg) no-repeat;
 }
 
 .video-caption-main {
@@ -2064,7 +2064,7 @@ ul.timeline {
 
 
 #testimonials {
-	background:url(../images/parallax/testimonials.jpg) no-repeat;
+	background:url(images/parallax/testimonials.jpg) no-repeat;
 }
 
 #testimonials {
@@ -2267,7 +2267,7 @@ ul.timeline {
 /*-----------------------------------------------------------------*/
 
 #page-header {
-	background:url('../images/page-header.jpg');
+	background:url('images/page-header.jpg');
 	padding: 130px 0px 80px;
 	text-align: center;
 }
@@ -2414,7 +2414,7 @@ ul.timeline {
 }
 
 #related-project {
-	background:url('../images/pattern.png') repeat;
+	background:url('images/pattern.png') repeat;
 	padding:100px 0 80px;
 	position:relative;
 }
@@ -2829,7 +2829,7 @@ li.comment ol.comment-sub {
 /*-----------------------------------------------------------------*/
 
 #contact {
-	background:url(../images/parallax/contact.jpg) no-repeat;
+	background:url(images/parallax/contact.JPG) no-repeat;
 }
 
 .contact-form {
